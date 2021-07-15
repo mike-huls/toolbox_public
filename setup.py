@@ -24,12 +24,12 @@ setuptools.setup(
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
-        'Topic :: Software Development :: Tutorial',
+        'Topic :: Software Development :: Documentation',
         'License :: OSI Approved :: MIT License',
-        'Programming Language :: "Python :: 3',
-        'Programming Language :: "Python :: 3.7',
-        'Programming Language :: "Python :: 3.8',
-        'Programming Language :: "Python :: 3.9',
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
     ]
 )
 

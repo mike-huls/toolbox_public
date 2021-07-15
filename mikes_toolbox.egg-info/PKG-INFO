@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: mikes-toolbox
 Version: 0.0.3
 Summary: Testing installation of Package
-Home-page: https://github.com/Muls/toolbox
+Home-page: https://github.com/Muls/toolbox_public
 Author: Mike Huls
 Author-email: mike_huls@hotmail.com
 License: MIT
@@ -54,7 +54,7 @@ Keywords: pypi,mikes_toolbox,tutorial
 Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
-Classifier: Topic :: Software Development :: Tutorial
+Classifier: Topic :: Software Development :: Documentation
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: "Python :: 3
 Classifier: Programming Language :: "Python :: 3.7
