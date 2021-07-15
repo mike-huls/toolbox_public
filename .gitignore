@@ -1,6 +1,6 @@
 venv/
 .idea/
 dist/
-toolbox.egg-info/
+mikes_gtoolbox.egg-info/
 
 instructions.txt

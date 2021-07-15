@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     author='Mike Huls',
     author_email='mike_huls@hotmail.com',
-    url='https://github.com/Muls/toolbox',
+    url='https://github.com/Muls/toolbox_public',
     project_urls = {
         "Bug Tracker": "https://github.com/Muls/toolbox/issues"
     },
