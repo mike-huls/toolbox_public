@@ -1,3 +1,6 @@
 venv/
 .idea/
+dist/
+toolbox.egg-info/
+
 instructions.txt

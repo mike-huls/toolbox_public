@@ -1,7 +1,11 @@
 # Toolbox
 
 Toolbox is a Python package that contains handy functions. 
-It's main goal, however, is to demonstrate how to create a package
+It's main goal, however, is to demonstrate how to create 
+a package and demonstrate how to upload it to PyPi.  
+Check out [this](https://mikehuls.medium.com/create-your-custom-python-package-that-you-can-pip-install-from-your-git-repository-f90465867893)
+article for a detailed explanation on how to create your 
+custom Python package and upload it to PyPi!
 
 ## Installation and updating
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Toolbox like below. 
@@ -18,15 +22,16 @@ Features:
 * decorators.singleton  --> used for decoratint your class to make it a singleton
 
 #### Demo of some of the features:
-```python
-import toolbox
-from toolbox import report
 
-message = toolbox.functions.weirdCase("The toolbox package is ready for use")
+```python
+import mikes_toolbox
+from mikes_toolbox import report
+
+message = mikes_toolbox.functions.weirdCase("The mikes_toolbox package is ready for use")
 report(message)
 
 list_of_numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
-for chunk in toolbox.functions.listChunker(lst=list_of_numbers, dsize=3):
+for chunk in mikes_toolbox.functions.listChunker(lst=list_of_numbers, dsize=3):
     print(chunk)
 ```
 
